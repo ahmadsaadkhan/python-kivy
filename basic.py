@@ -15,6 +15,10 @@ ScreenManager:
         theme_text_color: 'Custom'
         text_color: 148/255,0,211/255,1
         font_style: 'H2'
+    MDRoundFlatIconButton:
+        text: 'Save'
+        user_font_size: '100sp'
+        pos_hint: {'center_x':0.5,'center_y':0.4}
 
 
 '''
